@@ -1,4 +1,4 @@
-name = "AI Engineering"
-print(f'Hello, World!{name}')
-salam = "mən yorğunam, sağolun"
-print(salam)
+import math
+from math import factorial
+
+print(factorial(3))
