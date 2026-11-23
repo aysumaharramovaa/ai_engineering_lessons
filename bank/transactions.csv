@@ -1,0 +1,4 @@
+number,account,date,amount,category,note
+T001,A100,2026-10-01,100.00,salary,October salary
+T002,A100,2026-10-25,-80.00,transfer,to savings
+T003,A200,2026-10-25,20.00,transfer,from friend
